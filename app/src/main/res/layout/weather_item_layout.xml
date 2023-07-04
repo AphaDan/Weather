@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="150dp"
+    android:layout_height="250dp"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:background="@drawable/biz_plugin_weather_background">
+
+    <ImageView
+        android:id="@+id/iv_tianqi"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:src="@drawable/biz_plugin_weather_yin" />
+
+    <TextView
+        android:id="@+id/tv_wendu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        tools:text="31" />
+
+    <TextView
+        android:id="@+id/tv_tianqi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="阴转多云"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_riqi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="(2017-07-25星期日)"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+
+    <TextView
+        android:id="@+id/tv_feng"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="南风3~4级"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+
+</LinearLayout>

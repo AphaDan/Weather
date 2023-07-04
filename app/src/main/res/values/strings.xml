@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">今日天气</string>
+
+    <string-array name="cities">
+        <item>101010100</item>
+        <item>101030100</item>
+        <item>101050101"</item>
+        <item>101070101</item>
+        <item>101090101</item>
+        <item>101160101</item>
+        <item>101110101</item>
+        <item>101180101</item>
+        <item>101100101</item>
+        <item>101250101</item>
+        <item>101190101</item>
+        <item>101260101</item>
+        <item>101210101</item>
+        <item>101280101</item>
+        <item>101340101</item>
+        <item>101020100 </item>
+        <item>101040100</item>
+        <item>101060101</item>
+        <item>101080101</item>
+        <item>101130101</item>
+        <item>101150101</item>
+        <item>101170101</item>
+        <item>101120101</item>
+        <item>101220101</item>
+        <item>101200101</item>
+        <item>101270101</item>
+        <item>101140101</item>
+        <item>101290101</item>
+        <item>101240101</item>
+        <item>101230101</item>
+        <item>101310101</item>
+        <item>101330101</item>
+
+    </string-array>
+</resources>
